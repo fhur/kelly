@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: com.clojure-goes-fast/lazy-require:0.1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/clojure-goes-fast/lazy-require/0.1.1/lazy-require-0.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
