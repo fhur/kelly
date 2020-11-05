@@ -1,9 +1,9 @@
 (ns kelly.sims.sp500
   (:require
     [kelly.random :as rnd]
-    [ts.plot :as plot]
-    [ts.finance :refer [future-value]]
-    [ts.random :refer [random-float]]
+    [kelly.ts.plot :as plot]
+    [kelly.ts.finance :refer [future-value]]
+    [kelly.random :refer [random-float]]
     [kelly.ts :as ts]
     [kelly.preview :refer [preview]]
     [medley.core :refer [map-vals]]))

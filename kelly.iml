@@ -24,7 +24,6 @@
     <orderEntry type="library" name="Leiningen: clj-stacktrace:0.2.8" level="project" />
     <orderEntry type="library" name="Leiningen: clj-time:0.11.0" level="project" />
     <orderEntry type="library" name="Leiningen: clj-tuple:0.2.2" level="project" />
-    <orderEntry type="library" name="Leiningen: cljfmt:0.5.3" level="project" />
     <orderEntry type="library" name="Leiningen: cljsjs/create-react-class:15.6.3-0" level="project" />
     <orderEntry type="library" name="Leiningen: cljsjs/react-dom-server:16.3.2-0" level="project" />
     <orderEntry type="library" name="Leiningen: cljsjs/react-dom:16.3.2-0" level="project" />
@@ -93,7 +92,6 @@
     <orderEntry type="library" name="Leiningen: javax.servlet/javax.servlet-api:3.1.0" level="project" />
     <orderEntry type="library" name="Leiningen: javax.xml.bind/jaxb-api:2.3.0" level="project" />
     <orderEntry type="library" name="Leiningen: joda-time:2.8.2" level="project" />
-    <orderEntry type="library" name="Leiningen: jonase/eastwood:0.2.1" level="project" />
     <orderEntry type="library" name="Leiningen: manifold:0.1.8" level="project" />
     <orderEntry type="library" name="Leiningen: markdown-clj:1.0.7" level="project" />
     <orderEntry type="library" name="Leiningen: markdown-to-hiccup:0.6.1" level="project" />
@@ -118,7 +116,6 @@
     <orderEntry type="library" name="Leiningen: org.apache.maven/maven-model:3.0.4" level="project" />
     <orderEntry type="library" name="Leiningen: org.apache.maven/maven-repository-metadata:3.0.4" level="project" />
     <orderEntry type="library" name="Leiningen: org.bouncycastle/bcprov-jdk15on:1.52" level="project" />
-    <orderEntry type="library" name="Leiningen: org.clojars.brenton/google-diff-match-patch:0.1" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojars.didiercrunch/clojupyter:0.1.5" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.9.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojurescript:1.10.238" level="project" />
@@ -174,13 +171,10 @@
     <orderEntry type="library" name="Leiningen: org.zeromq/jeromq:0.3.4" level="project" />
     <orderEntry type="library" name="Leiningen: pandect:0.5.4" level="project" />
     <orderEntry type="library" name="Leiningen: pathetic:0.5.0" level="project" />
-    <orderEntry type="library" name="Leiningen: pjstadig/humane-test-output:0.8.1" level="project" />
     <orderEntry type="library" name="Leiningen: potemkin:0.4.5" level="project" />
     <orderEntry type="library" name="Leiningen: primitive-math:0.1.6" level="project" />
     <orderEntry type="library" name="Leiningen: quoin:0.1.2" level="project" />
     <orderEntry type="library" name="Leiningen: reagent:0.8.1" level="project" />
-    <orderEntry type="library" name="Leiningen: rewrite-clj:0.4.12" level="project" />
-    <orderEntry type="library" name="Leiningen: rewrite-cljs:0.4.1" level="project" />
     <orderEntry type="library" name="Leiningen: riddley:0.1.12" level="project" />
     <orderEntry type="library" name="Leiningen: ring-cljsjs:0.1.0" level="project" />
     <orderEntry type="library" name="Leiningen: ring/ring-anti-forgery:1.3.0" level="project" />
@@ -195,7 +189,6 @@
     <orderEntry type="library" name="Leiningen: ring:1.7.1" level="project" />
     <orderEntry type="library" name="Leiningen: slingshot:0.12.2" level="project" />
     <orderEntry type="library" name="Leiningen: tigris:0.1.1" level="project" />
-    <orderEntry type="library" name="Leiningen: ts:0.1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Leiningen: viebel/codox-klipse-theme:0.0.1" level="project" />
   </component>
 </module>
